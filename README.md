@@ -2,6 +2,8 @@
 A barely-functional episode generator held together by pure spite, duct tape, and GPT-powered hallucinations.  
 It takes a one-line episode synopsis and somehow vomits out an AI-generated Star Trek fever dream with dialogue, voices, and lip-synced video.
 
+[Example](https://www.youtube.com/watch?v=9KAWtlkWFpY)
+
 ---
 
 ## ⚙️ Setup
