@@ -1,6 +1,6 @@
 # Holodeck Malfunction
-A barely-functional episode generator held together by pure spite, duct tape, and GPT-powered hallucinations.  
-It takes a one-line episode synopsis and somehow vomits out an AI-generated Star Trek fever dream with dialogue, voices, and lip-synced video.
+A tv show episode generator pipeline held together by pure spite and GPT-powered hallucinations.  
+It takes a one-line episode synopsis and outputs an AI-generated Star Trek fever dream with dialogue, voices, and lip-synced video.
 
 [Example](https://www.youtube.com/watch?v=9KAWtlkWFpY)
 
@@ -60,7 +60,7 @@ python .\comfy_episode_worker.py --episode-dir "episode_20251006_151759" --frame
 
 ### 👄 4. Lip Sync & Final Assembly
 
-Apply Wav2Lip for lip movement and breathing room:
+Apply Wav2Lip for lip movement:
 
 ```bash
 python wav2lip_worker.py --episode-dir ./episode_20251006_151759 --wav2lip-path ./Wav2Lip --checkpoint ./Wav2Lip/checkpoints/wav2lip_gan.pth --concurrency 1 --breathing-room --lead-seconds 1 --tail-seconds 1
