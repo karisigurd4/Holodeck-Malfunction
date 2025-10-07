@@ -26,7 +26,9 @@ voices: Dict[str, str] = {
     "troi":   "7c1db7ba75bf4b738a2b1a9c6f4314b4",
     "geordi": "f90f57226f004adc8e67698064524522",
     "purple joe rogan": "b0de3c7574d7477ca5f849c32c28de72",
-    "patternmaker": "f318352c0936462eb86b31ac1358178e"
+    "bill gates": "23ce12b507a84011be6a2f2674b24858",
+    "matt berry": "ffdc2477f0d5455caf2a28dbdaa68ae6",
+    "drphil": "f318352c0936462eb86b31ac1358178e"
 }
 
 ApiKey  = FISHSPEECH_KEY

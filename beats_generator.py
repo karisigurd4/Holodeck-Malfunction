@@ -34,7 +34,7 @@ Episode summary premise: {summary}
 Rules:
 - Write 3 to 5 beats. Each beat is one line.
 - Format each beat as: Location - what happens
-- Use only the following characters: Picard, Worf, Troi, Data, Riker
+- Use only the following characters: Picard, Worf, Troi, Data, Riker, Purple Joe Rogan, Matt Berry
 - Locations must be specific ship settings: Bridge, Ready Room, Engineering, Ten Forward, Turbolift, Observation Lounge
 - The beats must form a cohesive narrative arc with a clear beginning, middle, and end.
 - Start with setup (context or mission), move through tension or complication, build toward climax, and end with resolution or quiet aftermath.

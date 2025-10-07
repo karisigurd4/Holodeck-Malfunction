@@ -1,7 +1,7 @@
 {
   "6": {
     "inputs": {
-      "text": "A cinematic close-up of a person calmly sitting or standing. Quiet moment captured on film. The subject breathes gently, blinks occasionally, and makes only subtle, natural micro-movements — tiny shifts of posture or head position. Lighting is soft and consistent, with no sudden changes. The background remains still and realistic, no extra characters or unexpected actions. The atmosphere is peaceful, steady, and believable. %%PROMPT%%",
+      "text": "A cinematic close-up of a person calmly sitting or standing. Quiet moment captured on film. The subject breathes gently, blinks occasionally, and makes only subtle, natural micro-movements — tiny shifts of posture or head position. Lighting is soft and consistent, with no sudden changes. The background remains still and realistic, no extra characters or unexpected actions. The atmosphere is peaceful, steady, and believable. The camera remains fixed in a medium shot. %%PROMPT%%",
       "clip": [
         "38",
         0
