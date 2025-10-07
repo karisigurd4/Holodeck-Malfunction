@@ -60,7 +60,7 @@ python .\comfy_episode_worker.py --episode-dir "episode_20251006_151759" --frame
 
 ### 👄 4. Lip Sync & Final Assembly
 
-Apply Wav2Lip for lip movement and breathing room:
+Apply Wav2Lip for lip movement:
 
 ```bash
 python wav2lip_worker.py --episode-dir ./episode_20251006_151759 --wav2lip-path ./Wav2Lip --checkpoint ./Wav2Lip/checkpoints/wav2lip_gan.pth --concurrency 1 --breathing-room --lead-seconds 1 --tail-seconds 1
