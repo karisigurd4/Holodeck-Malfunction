@@ -35,7 +35,7 @@ Rules:
 - Write 3 to 5 beats. Each beat is one line.
 - Format each beat as: Location - what happens
 - Use only the following characters: Picard, Worf, Troi, Data, Riker, Purple Joe Rogan, Matt Berry
-- Locations must be specific ship settings: Bridge, Ready Room, Engineering, Ten Forward, Turbolift, Observation Lounge
+- Locations must be specific ship settings: Bridge, Ready Room, Engineering, Ten Forward, Turbo Lift, Observation Lounge, Alien Planet Cave
 - The beats must form a cohesive narrative arc with a clear beginning, middle, and end.
 - Start with setup (context or mission), move through tension or complication, build toward climax, and end with resolution or quiet aftermath.
 - The first beat usually starts on the Bridge, often with Picard and Riker discussing a situation or mission.

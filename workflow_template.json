@@ -81,10 +81,10 @@
   "71": {
     "inputs": {
       "steps": 30,
-      "max_shift": 0.5,
-      "base_shift": 0.2,
-      "stretch": true,
-      "terminal": 0.08,
+      "max_shift": 0.08,
+      "base_shift": 0.04,
+      "stretch": false,
+      "terminal": 0.01,
       "latent": [
         "77",
         2

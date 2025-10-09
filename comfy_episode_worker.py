@@ -339,7 +339,7 @@ async def run_single_shot(
         "%%PREFIX%%": prefix,
     }
     if frames_len is not None:
-        mapping["%%LENGTH%%"] = int(frames_len) + 128
+        mapping["%%LENGTH%%"] = int(frames_len) + 56
 
     # If your workflow template has "length": "%%LENGTH%%", this will drop an int in there.
     wf = deep_replace_preserve_types(base_workflow, mapping)
